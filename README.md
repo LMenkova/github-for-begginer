@@ -1,1 +1,1 @@
-# github-for-begginer
+# github-for-begginers
